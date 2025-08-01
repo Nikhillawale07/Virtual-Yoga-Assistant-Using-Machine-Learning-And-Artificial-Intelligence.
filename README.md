@@ -15,10 +15,7 @@
 - [💡 Project Overview](#-project-overview)
 - [🎯 Features](#-features)
 - [🛠️ Tech Stack](#-tech-stack)
-- [📸 Screenshots](#-screenshots)
 - [🚀 Getting Started](#-getting-started)
-- [📂 Folder Structure](#-folder-structure)
-- [📈 Future Enhancements](#-future-enhancements)
 - [🙋‍♂️ Author](#-author)
 
 ---
@@ -52,11 +49,6 @@ This Virtual Yoga Assistant uses real-time video input to detect body keypoints,
 
 ---
 
-## 📸 Screenshots
-
-> *(Insert screenshots of the GUI, pose detection, feedback messages here)*
-
----
 
 ## 🚀 Getting Started
 
@@ -70,3 +62,12 @@ Make sure you have Python 3.8 or above installed.
 git clone https://github.com/Nikhillawale07/Virtual-Yoga-Assistant-Using-Machine-Learning-And-Artificial-Intelligence.git
 cd Virtual-Yoga-Assistant-Using-Machine-Learning-And-Artificial-Intelligence
 pip install -r requirements.txt
+
+🙋‍♂️ Author
+Nikhil Nagnath Lawale
+📧 nikhillawale2911@gmail.com
+📞 +91 98347 37869
+📍 Pune, Maharashtra
+🔗 GitHub Profile
+
+
